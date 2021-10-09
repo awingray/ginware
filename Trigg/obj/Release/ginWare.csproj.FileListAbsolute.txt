@@ -1,0 +1,12 @@
+C:\Users\Awin\OneDrive\ginWare\Trigg\bin\Release\ginWare.exe
+C:\Users\Awin\OneDrive\ginWare\Trigg\bin\Release\ginWare.pdb
+C:\Users\Awin\OneDrive\ginWare\Trigg\obj\Release\ginWare.csprojAssemblyReference.cache
+C:\Users\Awin\OneDrive\ginWare\Trigg\obj\Release\ginWare.csproj.CoreCompileInputs.cache
+C:\Users\Awin\OneDrive\ginWare\Trigg\obj\Release\ginWare.exe
+C:\Users\Awin\OneDrive\ginWare\Trigg\obj\Release\ginWare.pdb
+C:\Users\Awin\Desktop\ginWare\Trigg\bin\Release\ginWare.exe
+C:\Users\Awin\Desktop\ginWare\Trigg\bin\Release\ginWare.pdb
+C:\Users\Awin\Desktop\ginWare\Trigg\obj\Release\ginWare.csprojAssemblyReference.cache
+C:\Users\Awin\Desktop\ginWare\Trigg\obj\Release\ginWare.csproj.CoreCompileInputs.cache
+C:\Users\Awin\Desktop\ginWare\Trigg\obj\Release\ginWare.exe
+C:\Users\Awin\Desktop\ginWare\Trigg\obj\Release\ginWare.pdb

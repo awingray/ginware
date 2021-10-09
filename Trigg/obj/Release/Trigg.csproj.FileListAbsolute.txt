@@ -1,0 +1,19 @@
+C:\Users\Anthony\documents\visual studio 2015\Projects\Trigg\Trigg\bin\Release\Trigg.exe.config
+C:\Users\Anthony\documents\visual studio 2015\Projects\Trigg\Trigg\bin\Release\Trigg.exe
+C:\Users\Anthony\documents\visual studio 2015\Projects\Trigg\Trigg\bin\Release\Trigg.pdb
+C:\Users\Anthony\documents\visual studio 2015\Projects\Trigg\Trigg\obj\Release\Trigg.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\documents\visual studio 2015\Projects\Trigg\Trigg\obj\Release\Trigg.exe
+C:\Users\Anthony\documents\visual studio 2015\Projects\Trigg\Trigg\obj\Release\Trigg.pdb
+C:\Users\Awin\Desktop\Source\Trigg\bin\Release\Trigg.exe.config
+C:\Users\Awin\Desktop\Source\Trigg\obj\Release\Trigg.exe
+C:\Users\Awin\Desktop\Source\Trigg\obj\Release\Trigg.pdb
+C:\Users\Awin\Desktop\Source\Trigg\bin\Release\Trigg.exe
+C:\Users\Awin\Desktop\Source\Trigg\bin\Release\Trigg.pdb
+C:\Users\Awin\Desktop\Source\Trigg\bin\Release\Trigg.exe.CodeAnalysisLog.xml
+C:\Users\Awin\Desktop\Source\Trigg\bin\Release\Trigg.exe.lastcodeanalysissucceeded
+C:\Users\Awin\Desktop\Trigg\Trigg\obj\Release\Trigg.csprojResolveAssemblyReference.cache
+C:\Users\Awin\Desktop\Trigg\Trigg\obj\Release\Trigg.csproj.CoreCompileInputs.cache
+C:\Users\Awin\Desktop\Trigg\Trigg\bin\Release\ginWare.exe
+C:\Users\Awin\Desktop\Trigg\Trigg\bin\Release\ginWare.pdb
+C:\Users\Awin\Desktop\Trigg\Trigg\obj\Release\ginWare.exe
+C:\Users\Awin\Desktop\Trigg\Trigg\obj\Release\ginWare.pdb

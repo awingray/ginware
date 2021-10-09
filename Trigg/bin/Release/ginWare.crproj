@@ -1,0 +1,6 @@
+<project outputDir="C:\Users\Awin\Desktop\ginWare\Trigg\bin\Release\Confused" baseDir="C:\Users\Awin\Desktop\ginWare\Trigg\bin\Release" xmlns="http://confuser.codeplex.com">
+  <packer id="compressor" />
+  <module path="ginWare.exe">
+    <rule pattern="true" inherit="false" />
+  </module>
+</project>
